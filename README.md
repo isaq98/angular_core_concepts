@@ -6,7 +6,7 @@ In addition, it allows the user to search for results based on price, name, or l
 ## Usage
 As mentioned, this is an Angular application. There are two ways to launch it.
 
-** Install Angular CLI **
+**Install Angular CLI**
 Installing the Angular CLI can be done on the Command Line like so:
 ```
 npm install -g @angular/cli
@@ -22,6 +22,6 @@ npm start
 
 Then the program should be launched on a localhost server for you to interact with.
 
-##Contributions
+## Contributions
 Much of my code was able to created thanks to this [Introductory Angular Course](https://scrimba.com/learn/yourfirstangularapp). It is a very helpful resource
 for those looking to learn.
